@@ -1,0 +1,15 @@
+h1 {
+    color: pink;
+    text-decoration: overline;
+}
+.highlight {
+    font-weight: bold;
+    background-color: yellow;
+    display: inline;
+}
+#unique {
+    background-color: darkslategrey;
+    display: inline;
+    padding-inline: 10%;
+    color: antiquewhite;
+}
